@@ -14,7 +14,6 @@ class AAViewController: UIViewController {
         super.viewDidLoad()
 
         print("新建页面")
-        print("再次新建")
         // Do any additional setup after loading the view.
     }
 
