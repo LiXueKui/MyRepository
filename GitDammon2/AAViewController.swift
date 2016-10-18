@@ -13,6 +13,7 @@ class AAViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        print("从XCode下载的工程")
         print("新建页面")
         // Do any additional setup after loading the view.
     }
